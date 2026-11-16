@@ -1,5 +1,5 @@
 {
-    "version": "1.1.1",
-    "release_date": { "day": 7, "month": 8, "year": 2026 },
-    "notes": "Garages only list and accept their own vehicle type again, so boats stay out of car garages and cars out of hangars. Adds a /givevehicle admin command."
+    "version": "2.0.0",
+    "release_date": { "day": 16, "month": 11, "year": 2026 },
+    "notes": "NEX.dev is now Nerve Studios. This script is deprecated and will not get any more updates. Check out https://store.nervestudios.net for the full Nerve Studios lineup, with lots of new scripts to grab."
 }

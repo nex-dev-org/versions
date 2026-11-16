@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 19, "month": 7, "year": 2026 },
-    "notes": "nex_scalemenu is no longer maintained - it has been rebranded to nexdev_scalemenu under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_scalemenu asset and switch to it to keep receiving updates."
+    "version": "2.0.0",
+    "release_date": { "day": 16, "month": 11, "year": 2026 },
+    "notes": "NEX.dev is now Nerve Studios. This script is deprecated and will not get any more updates. Check out https://store.nervestudios.net for the full Nerve Studios lineup, with lots of new scripts to grab."
 }

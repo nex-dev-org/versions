@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "release_date": { "day": 28, "month": 7, "year": 2026 },
-    "notes": "Adds a cinematic mode that letterboxes the view and hides the interface for clean screenshots. The camera panel is split into sub-menus with far more to tune, including orbit distance, focus height, fly speed and movement steps. Escape now closes the editor instead of opening the pause menu."
+    "version": "2.0.0",
+    "release_date": { "day": 16, "month": 11, "year": 2026 },
+    "notes": "NEX.dev is now Nerve Studios. This script is deprecated and will not get any more updates. Check out https://store.nervestudios.net for the full Nerve Studios lineup, with lots of new scripts to grab."
 }
